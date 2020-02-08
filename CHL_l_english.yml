@@ -102,6 +102,10 @@
  CHL_efe_rail_desc:0 "1884년 창립된 국영 철도 회사는 칠레 전역을 가로지르는 철도를 소유했습니다. 하지만 철도의 부품 교체가 이루어진 지는 오랜 시간이 지났고 열차들도 낡았습니다. 칠레 전역의 국민과 산업의 이득을 위해 회사에 다시금 활력을 불어넣어야 합니다."
  CHL_steel:0 "제강소 확대"
  CHL_steel_desc:0 "국립 강철 기업은 가치 있는 사업이었음이 증명되었습니다. 자원을 더욱 투자하는 것이 합리적일 것입니다. 광석이 있는 우아치파토에 대규모 제강소를 건설합시다. 이 지역은 특이하게 축구에 대한 열정이 높기도 합니다."
+ CHL_oil_in_the_tierra_del_fuego:0 "Oil in the Tierra del Fuego"
+ CHL_oil_in_the_tierra_del_fuego_desc:0 "Deep down in the south lies resources that could lead to our energetic independence."
+ CHL_mining_technologies:0 "Mining Technologies"
+ CHL_mining_technologies_desc:0 "Our economy rely a lot on the mining sector, so modern ore extraction technologies are vital."
  CHL_the_spread_of_fascism:0 "파시즘 전파"
  CHL_the_spread_of_fascism_desc:0 "공화국을 해체하자는 국가주의적 정서가 군대와 민간 모두에게서 증가하고 있습니다."
  CHL_appropriate_land_com:0 "농부 해방"
@@ -333,3 +337,19 @@
  STATE_743:0 "타라파카"
  STATE_744:0 "아리카"
  STATE_506:0 "안토파가스타"
+
+
+
+ CHL_generic_industrial_concern:0 "ESVAL"
+ CHL_generic_electronics_concern:0 "VTR" 
+ CHL_generic_artillery_manufacturer:0 "FAMAE Gun Foundry"
+ CHL_generic_infantry_equipment_manufacturer:0 "FAMAE"
+ CHL_generic_tank_manufacturer:0 "FAMAE"
+ CHL_generic_light_aircraft_manufacturer:0 "Subsecretaria de Aviación"
+ CHL_generic_medium_aircraft_manufacturer:0 "LAN-Chile"
+# WLS_generic_naval_manufacturer:0 "Navy Propellant Factory, Caerwent"
+
+ #air force chiefs
+ CHL_diego_aracena_aguilar:0 "Diego Aracena Aguilar"
+ CHL_armando_castro_lopez:0 "Armando Castro López"
+ CHL_manuel_tovarias_arroyo:0 "Manuel Tovarías Arroyo"
