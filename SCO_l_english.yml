@@ -7,13 +7,16 @@
  SCO_democratic_party_long:0 "스코틀랜드 국민당"
 
  SCO_generic_fascist_demagogue:0 "흄 슬레이"
+ SCO_norman_macmillan:0 "Norman Macmillan"
+ SCO_douglas_douglas_hamilton:0 "Douglas Douglas-Hamilton"
   
  SCO_cavalry:0 "스코틀랜드 기병"
  SCO_home_guard:0 "스코틀랜드 보병"
 
  SCO_idea_designers_innovations:0 "디자이너의 혁신"
  SCO_idea_shipbuilding_contacts:0 "조선술 절충"
- SCO_idea_national_admiralty:0 "국가 해군성" 
+ SCO_idea_national_admiralty:0 "국가 해군성"
+ 
  SCO_generic_industrial_concern:0 "데이비드 콜빌 & 손즈"
  SCO_generic_electronics_concern:0 "페란티" 
  SCO_parson_peebles_engineering_works:0 "파슨즈 피블즈 공학"
@@ -22,7 +25,7 @@
  SCO_generic_medium_aircraft_manufacturer:0 "스코틀랜드 항공"
  SCO_generic_heavy_aircraft_manufacturer:0 "월리엄 비어드모어 앤 컴퍼니"
  SCO_rof_dalmuir:0 "ROF 달무어"
- SCO_dingham_munitions_factory:0 "딩엄 군수 공장"
+ SCO_edingham_munitions_factory:0 "Edingham Munitions Factory"
  SCO_albion_motors:0 "알비온 모터스"
  SCO_north_british_locomotive_company:0 "북영국 기관차 회사"
 
