@@ -159,6 +159,8 @@ l_english:
  GEN_Small_Navy_desc:0 ""
  GEN_Submarine:0 "새 현대형 잠수함"
  GEN_Submarine_desc:0 ""
+ GEN_stealth_upgrades:0 "Stealth Upgrades"
+ GEN_stealth_upgrades_desc:0 ""
  GEN_Sea_Dominance:0 "제해권 장악 중점"
  GEN_Sea_Dominance_desc:0 ""
  GEN_Study_Ships:0 "외국 함선 설계 연구"
