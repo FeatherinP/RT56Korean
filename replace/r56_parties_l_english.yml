@@ -67,22 +67,22 @@ absolute_monarchism:0 "절대군주제"
  ARG_neutrality_party_long:0 "콩코르단시아"
  
  #AST
- AST_neutrality_party:0 "Office of the Governor-General"
- AST_neutrality_party_long:0 "Office of the Governor-General"
- AST_labor_party:0 "Labor"
- AST_labor_party_long:0 "Australian Labor Party"
- AST_country_party:0 "Country"
- AST_country_party_long:0 "Australian Country Party"
+ AST_neutrality_party:0 "총독부"
+ AST_neutrality_party_long:0 "총독부"
+ AST_labor_party:0 "노동당"
+ AST_labor_party_long:0 "오스트레일리아 노동당"
+ AST_country_party:0 "국가당"
+ AST_country_party_long:0 "오스트레일리아 국가당"
  AST_democratic_party:0 "UAP"
- AST_democratic_party_long:0 "United Australia Party"
- AST_liberal_party:0 "Liberal"
- AST_liberal_party_long:0 "Liberal Party of Australia"
- AST_fascism_party:0 "Centre Party"
- AST_fascism_party_long:0 "Centre Party"
- AST_australia_first_party:0 "Australia First"
- AST_australia_first_party_long:0 "Australia First Movement"
+ AST_democratic_party_long:0 "오스트레일리아 연합당"
+ AST_liberal_party:0 "자유당"
+ AST_liberal_party_long:0 "오스트레일리아 자유당"
+ AST_fascism_party:0 "중앙당"
+ AST_fascism_party_long:0 "중앙당"
+ AST_australia_first_party:0 "오스트레일리아 우선주의 운동"
+ AST_australia_first_party_long:0 "오스트레일리아 우선주의 운동"
  AST_communism_party:0 "CPA"
- AST_communism_party_long:0 "Communist Party of Australia"
+ AST_communism_party_long:0 "오스트레일리아 공산당"
 
  #AUS
  AUS_communism_party:0 "KPÖ"
@@ -221,7 +221,7 @@ absolute_monarchism:0 "절대군주제"
  ELS_neutrality_party_long:0 "프로 파트리아"
  #Fictious
  ELS_communist_party:0 "SCP"
- ELS_communist_party_long:0 "Salvadorian Communist Party"
+ ELS_communist_party_long:0 "엘살바도르 공산당"
 
  #GXC
  GXC_neutrality_party:0 "신계계군벌"
@@ -240,7 +240,7 @@ absolute_monarchism:0 "절대군주제"
  #IRQ
  #Fictious
  IRQ_democratic_party:0 "IRP"
- IRQ_democratic_party_long:0 "Iraqi Reformist Party"
+ IRQ_democratic_party_long:0 "이라크 개혁당"
 
  #JAP
  JAP_neutrality_party:0 "대본영"
@@ -251,10 +251,10 @@ absolute_monarchism:0 "절대군주제"
  KMT_wjw:0 "왕징웨이 정권"
  
  LIB_democratic_party:0 "TWP"
- LIB_democratic_party:0 "True Whig Party"
+ LIB_democratic_party:0 "트루 휘그당"
  #fictious
  LIB_communism_party:0 "LCP"
- LIB_communism_party:0 "Liberian Communist Party"
+ LIB_communism_party:0 "라이베리아 공산당"
 
 
  #LUX
@@ -275,18 +275,18 @@ absolute_monarchism:0 "절대군주제"
  MEN_mongal_council_long:0 "몽고지방자치정무위원회"
  MEN_mongal_council:0 "몽고지방자치정무위원회"
  MEN_communism_party:0 "IMPRP"
- MEN_communism_party_long:0 "Inner Mongolian People's Revolutionary Party"
+ MEN_communism_party_long:0 "내몽골 인민혁명당"
  MEN_fascism_party:0 "MRC" 
- MEN_fascism_party_long:0 "Mongol Revival Committee"
+ MEN_fascism_party_long:0 "흥몽위원회"
  #fictious  
  MEN_democratic_party:0 "DPIM" 
- MEN_democratic_party_long:0 "Democratic Party of Inner Mongolian"
+ MEN_democratic_party_long:0 "내몽골 민주당"
 
 
  #MON
  #fictious 
  MON_fascism_party:0 "PMNP" 
- MON_fascism_party_long:0 "Pan-Mongol Nationalist Party"
+ MON_fascism_party_long:0 "범몽골 국민당"
  
  
  #MOR
@@ -444,13 +444,13 @@ absolute_monarchism:0 "절대군주제"
  VLAcatholic_socialist_coalition_party_long:0 "가톨릭당-플란데런 노동당"
  
  WGR_democratic_party:0 "CDU"
- WGR_democratic_party_long:0 "Christlich Demokratische Union Deutschlands"
+ WGR_democratic_party_long:0 "독일 기독교민주연합"
  WGR_fascism_party:0 "SRD"
- WGR_fascism_party_long:0 "Sozialistische Reichspartei Deutschlands" 
+ WGR_fascism_party_long:0 "독일 사회주의 국가당" 
  WGR_communism_party:0 "KPD"
- WGR_communism_party_long:0 "Kommunistische Partei Deutschlands"  
+ WGR_communism_party_long:0 "독일 공산당"  
  WGR_neutrality_party:0 "TuL"
- WGR_neutrality_party_long:0 "Tradition und Leben"
+ WGR_neutrality_party_long:0 "전통과 삶"
 
 
 
