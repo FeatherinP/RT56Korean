@@ -1,5 +1,5 @@
 l_english:
-
+ SPR_r56_non_intervention_agreement:0 "Non Intervention Agreement" 
  SPA_recovering_from_civil_war:0 "Recovering from the Civil War"
  SPR_join_the_allies:0 "Join The Allies"
  SPR_join_the_little_entente:0 "Join The Little Entente"
@@ -79,6 +79,7 @@ aeronautica_industrial_sa:0 "아에로나우티카 인두스트리알 S.A."
 hispano_aviacion:0 "이스파노 아비아시온"
 secn:0 "에스파냐 해군조병창"
 euskalduna:0 "에우스칼두나"
+
  SPR_communism_party_psoe_long:0 "Partido Socialista Obrero Español"
  caudillo_trait:0 "Caudillo"
  SPR_juan_iii:0 "Juan III"
