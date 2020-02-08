@@ -455,11 +455,11 @@ absolute_monarchism:0 "절대군주제"
 
 
  DDR_democratic_party:0 "LDPD"
- DDR_democratic_party_long:0 "Liberal-Demokratische Partei Deutschlands"
+ DDR_democratic_party_long:0 "독일 자유민주당"
  DDR_fascism_party:0 "NDPD"
- DDR_fascism_party_long:0 "National-Demokratische Partei Deutschlands"  
+ DDR_fascism_party_long:0 "독일 국민민주당"  
  DDR_communism_party:0 "SED"
- DDR_communism_party_long:0 "Sozialistische Einheitspartei Deutschlands"
+ DDR_communism_party_long:0 "독일 사회주의통일당"
 
 
  #WAF
@@ -487,4 +487,4 @@ absolute_monarchism:0 "절대군주제"
  YUT_neutrality_party:0 "월계 군벌"
 
  YEM_communism_party:0 "YSP"
- YEM_communism_party_long:0 "Al-Hizb al-Ishtiraki al-Yamani"
+ YEM_communism_party_long:0 "예멘 사회당"
