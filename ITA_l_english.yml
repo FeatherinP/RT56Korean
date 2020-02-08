@@ -145,9 +145,9 @@
  r56_italy.22.b:0 "알바니아와 전쟁할 여유는 없다"
 
  r56_italy.23.t:0 "이탈리아의 달마티아 요구"
- r56_italy.23.d:0 "달마티아 지역의 역사적 이탈리아 거주민을 들면서, 이탈리아 정부는 달마티아 지역 전부를 이탈리아에 반환하고 우리 군대는 반환 후 72시간 내에 후퇴할 것을 요구했습니다. 이탈리아는 우리의 거부가 군사적 개입으로 이어질 수 있다고 경고했습니다."
+ r56_italy.23.d:0 "달마티아 지역의 역사적 이탈리아 거주민을 들면서, 이탈리아 정부는 달마티아 지역 전부를 이탈리아에 반환하고 [Root.GetAdjective] 군대는 반환 후 72시간 내에 후퇴할 것을 요구했습니다. 이탈리아는 우리의 거부가 군사적 개입으로 이어질 수 있다고 경고했습니다."
  r56_italy.23.a:0 "전쟁을 피할 수 있다면..."
- r56_italy.23.b:0 "우리는 우리의 슬라브 형제들과 갈라지지 않을 것이다!"
+ r56_italy.23.b:0 "Dalmatia is rightfully ours!"
 
  r56_italy.24.t:0 "유고슬라비아의 달마티아 포기 거부!"
  r56_italy.24.d:0 "유고슬라비아 정부는 우리에게 "달마티아에 살고 있는 슬라브인들을 생각하지 않는 정부에게 무릎끓을 일은 없다"고 밝혔으며, 달마티아 지역과 우리 국경에 군사를 추가로 배치했습니다. 어떻게 하면 좋을까요?"
@@ -190,6 +190,25 @@
  r56_italy.32.d:0 "Greece has occupied Albania, our future landing point in the balkans, how should we respond"
  r56_italy.32.a:0 "Early War!"
  r56_italy.32.b:0 "Don't Strike Yet."
+ 
+ r56_italy.100.t:0 "The Formalisation of the Stresa Front"
+ r56_italy.100.d:0 "Diplomats from Italy, France and the United Kingdom have reconvened in Stresa, Switzerland for the final round of talks on the Stresa Front against Germany. The proposal on the table is to formalise the front as a military alliance against German aggression and influence in Europe. While relations between the democratic powers and Italy's Fascist government have been rocky in the last few years, the recent talks have been positive. While France looks set to join, there are worries that this power block will weaken Britain's diplomatic independence."
+ r56_italy.100.a:0 "Together we will stand against Germany."
+ r56_italy.100.b:0 "We are okay with the current agreement."
+
+ r56_italy.101.t:0 "The Allies Join the Stresa Front"
+ r56_italy.101.d:0 "The representatives of the United Kingdom and the British Commonwealth have agreed to formalise the Stresa Front."
+ r56_italy.101.a:0 "Excellent."
+
+ r56_italy.102.t:0 "The Allies Refuse to Join the Stresa Front"
+ r56_italy.102.d:0 "The representatives of the United Kingdom and the British Commonwealth have declined our offer to formalise the Stresa Front."
+ r56_italy.102.a:0 "Unfortunate."
+
+ r56_italy.103.t:0 "The Formalisation of the Stresa Front"
+ r56_italy.103.d:0 "Diplomats from Italy, France and the United Kingdom have reconvened in Stresa, Switzerland for the final round of talks on the Stresa Front, aimed at countering growing German aggression and influence in Europe. While relations between the democratic powers and Italy's Fascist government have been rocky in the last few years, the recent proved positive with a joint declaration formalising a military alliance between all signatories of the Stresa Front."
+ r56_italy.103.a:0 "Together for victory!"
+ r56_italy.103.b:0 "They bound together like sheep scared of a wolf."
+ r56_italy.103.c:0 "Let's hope they can work together for good."
 
  # Ideas
  ITA_lack_of_powered_planes:0 "고출력 엔진의 부재"
@@ -241,8 +260,8 @@
  ITA_the_desillusion_of_fascism_desc:0 "§RCOMING SOON§!"
  ITA_revive_the_stresa_front:0 "스트레사 전선 회복"
  ITA_revive_the_stresa_front_desc:0 "스트레사 전선은 베르사유 조약의 재확인 뿐만 아니라 오스트리아의 독립을 유지하기 위한 이탈리아, 프랑스, 영국 간의 협정 이였습니다. 독일의 야망이 우리 편에 설 것이 분명하므로, 우리는 그들과 단결해야 합니다"
- ITA_revive_the_stresa_front_tt:0 "We will ask §YGreat Britain§! and §YFrance§! to reform the §YStresa Front§! against §YGermany§!\nThey both need to accept the offer, otherwise this focus will be §Yabandonned§!"
- ITA_stresa_front_refused_flag:0 "The Reformation of the Stresa Front was declined"
+ ITA_revive_the_stresa_front_tt:0 "We will ask §YGreat Britain§! and §YFrance§! to reform the §YStresa Front§! against §YGermany§!. They both need to accept the offer, otherwise this focus will be §Rabandonned§!.\n"
+ ITA_stresa_front_refused_flag:0 "The Reformation of the Stresa Front was declined."
  ITA_leave_the_league_of_nations:0 "Leave The League Of Nations"
  ITA_leave_the_league_of_nations_desc:0 "The League of Nations, whose inability is no longer to be proven, has nevertheless seen fit to condemn our invasion of Ethiopia. We do not need the support or confirmation of the latter to know what is good for Italy, and we should therefore leave it."
  ITA_move_toward_autarky:0 "Move Toward Autarky"
@@ -539,7 +558,9 @@
  ITA_royal_intervention_desc:0 "The Fascist regime cannot be trusted to lead Italy toward glory. The setbacks experienced in the early stages of our war in Ethiopia was a clear sign of the Fascist party’s inability to lead. We need to oust the Fascists and place the country under the control of our great King! "
  ITA_defenders_of_southern_europe:0 "Defenders of Southern Europe"
  ITA_defenders_of_southern_europe_desc:0 "§GComing March Patch 2020§! 'Due to SpicyAlfredo's trip to Ireland, the release of this branch has been delayed.' - Road to 56 Team"
-
+ ITA_formalise_the_front:0 "Formalise the Front"
+ ITA_formalise_the_front_desc:0 "It is time to make the Stresa Front more than just a promise, it is time to unite our nations into a common military alliance to keep the German beast at bay."
+ ITA_formalise_the_front_tt:0 "§YEvery country§! that is in a faction with §Y[ENG.GetNameDef]§! joins the §YStresa Front§! lead by §Y[ITA.GetNameDef]§!."
 #Leaders
 POLITICS_ITALO_BALBO:0 "이탈로 발보"
 POLITICS_ITALO_BALBO_DESC: "이탈로 발보"
@@ -596,3 +617,10 @@ ansaldo_tank_manufacturer:0 "전차 설계사"
 ansaldo_navy_manufacturer:0 "함선 설계사"
 
 ITA_RSI_fascism:0 "Italian Social Republic"
+
+#Faction
+stresa_front_faction:0 "Stresa Front"
+
+#Avanti!
+ABILITY_avanti:0 "Avanti!"
+ABILITY_avanti_desc:0 "Avanti! Avanti!"
