@@ -884,54 +884,54 @@
 
 ####### Version 0.95 rev11 changes
 
- rop_director:0 "ŘOP Director"
- king_of_the_shoes:0 "The King of Shoes"
- ckd_skoda_tanks:0 "Join-Venture Tank Designer"
- aero_aircraft_manufacturer:0 "Bomber Designer"
- avia_fighter_manufacturer:0 "Fighter Designer"
- letov_CAS_manufacturer:0 "Close Air Support Designer"
+ rop_director:0 "요새화감독국 국장"
+ king_of_the_shoes:0 "신발왕"
+ ckd_skoda_tanks:0 "합작 전차 설계사"
+ aero_aircraft_manufacturer:0 "폭격기 설계사"
+ avia_fighter_manufacturer:0 "전투기 설계사"
+ letov_CAS_manufacturer:0 "근접 항공 지원기 설계사"
 
 
 ####### Version 0.96 new events
 
-    czke.7.t:0 "President Edvard Beneš Resigns."
-    czke.7.d:0 "Following the occupation of the Sudetenland by Germany, president Edward Beneš was forced to resign on [GetDateText] under heavy German pressure. Our reports suggest that he went into exile to Putney, London and keeps low profile - for now."
-    czke.7.a:0 "Understood."
-    czke.8.t:0 "Presidental vote"
-    czke.8.d:0 "The former President of the Supreme Administration Court, Dr. Emil Hácha, was on [GetDateText] chosen by the National Assembly as the successor of Edvard Beneš as the President of Czechoslovakia. He was chosen because of his Catholicism, conservatism and lack of involvement in any of the governments that had led to the disastrous partition of the country.\n\nHe remained in the Office even after establishment of the Protectorate of Bohemia and Moravia, however, was a mere puppet and lost most of his political influence, especially after assassinaton of Reinhard Heydrich in June 1942."
-    czke.8.a:0 "Prepare Inauguration Ceremony."
-      hitlers_puppet:0 "Hitler's Puppet"
-      emil_hacha:0 "Emil Hácha (3rd President)"
-      emil_hacha_desc:0 "Emil Dominik Josef Hácha was a Czech lawyer, the third President of Czechoslovakia from 1938 to 1939. After the occupation of the remnants of Czechoslovakia on 16 March, Hácha retained his office as President but was forced to swear an oath to Hitler, who appointed Konstantin von Neurath as Protector of Bohemia and Moravia." 
+    czke.7.t:0 "에드바르트 베네시 대통령의 사임"
+    czke.7.d:0 "독일이 주데텐란트를 점령한 후, 에드바르트 베네시 대통령은 강한 독일의 압력으로 [GetDateText]년 사임했습니다. 보고에 따르면 그는 런던의 퍼트니로 망명해 현재는 칩거 중이라고 합니다."
+    czke.7.a:0 "알겠다."
+    czke.8.t:0 "대통령 선거"
+    czke.8.d:0 "전 최고 행정법원장 에밀 하하 박사가 [GetDateText]년 에드바르트 베네시의 후임 체코슬로바키아 대통령으로 의회에 의해 선출되었습니다. 그의 친가톨릭, 보수주의적 성향과 나라의 재앙스러운 분할을 가져온 이전 정부에 참여하지 않았다는 것이 그가 대통령이 된 이유였습니다.\n\n그는 보헤미아-모라바 보호령의 설립 후에도 계속 직위를 유지했지만, 꼭두각시에 불과했으며 1942년 6월 라인하르트 하이드리히가 암살된 후에는 남아있는 영향력마저 상실했습니다."
+    czke.8.a:0 "취임식을 준비하라."
+      hitlers_puppet:0 "히틀러의 꼭두각시"
+      emil_hacha:0 "에밀 하하 (제3대 대통령)"
+      emil_hacha_desc:0 "에밀 도미니크 요세프 하하는 체코 출신의 변호사이자 1938년부터 1939년까지 체코슬로바키아의 제3대 대통령이었습니다. 3월 16일 체코슬로바키아가 점령된 후에도 하하는 대통령직을 유지했지만, 그는 히틀러에게 충성을 맹세해야 했으며 히틀러는 콘스탄틴 폰 노이라트를 보헤미아-모라바 보호령 총독으로 임명했습니다." 
 
 
 ####### Version 0.96  focus text changes, need to delete some of the old lines from previous builds and replace with these
 
   CZKE_new_airplane_prototypes:0 "새 전투기 프로토타입"
-  CZKE_new_airplane_prototypes_desc:0 "The standard Czechoslovak pursuit plane was the Avia B-534 which was one of the last biplane fighters in operational use and perhaps also one of the best ever produced.\n\nHowever, during the critical years before WW2, a monoplane project was initiated in Avia."
-  CZKE_new_airplane_prototypes_tooltip_reward:0 "\n Choice between §YFighter§! or §YHeavy Fighter§! related §YResearch Bonus§!."
-    czke.223.t:0 "Czechoslovak pre-war fighter aircraft prototypes"
-    czke.223.d:0 "By 1936 it was clear to the Czechoslovak High Command, that the biplane fleet of the Czechoslovak Air Force will need modern monoplanes, should it ever come to war with Germany. Thus a new modernization program was initiated and a set of strict requirements and specifications was set for both fighters and bombers.\n\nThe best known example of Czech modern monoplane design was the Avia B.35 prototype, which eventually entered production as Avia B.135 in 1939. The plane, very similar to Hawker Hurricane, featured retractable undercarriage and a standard armament of one 20 mm cannon firing through the propeller hub and two 7.92 mm machine guns in the wings. Avia engineers planned to replace the insufficient Hispano-Suiza 12Ycrs engine with a stronger one, but the war prevented any modernization of the plane.\n\nAnother of the more interesting and promising designs was the Praga E-51, developed by ČKD Praga. It was a reconnaissance, heavy fighter that could also act as a light bomber, similar in design to the Fw 189 or the P-38 Lightning. The only known prototype flew first in May 1938, too late to be refined and mass produced for the use in the Czechoslovak Air Force. It was later confiscated and tested in Rechlin, Germany, never to be seen again."
-    czke.223.a:0 "Avia B.135 (Fighter)"
-    czke.223.b:0 "Praga E.51 (Heavy Fighter)"
+  CZKE_new_airplane_prototypes_desc:0 "체코슬로바키아의 표준 전투기는 아비아 B-534였으며, 이 전투기는 최후의 복엽 전투기 중 하나이자 아마도 최고의 복엽기였을 것입니다.\n\n하지만 제2차 세계대전 전의 급박한 시기에 아비아는 단엽기 프로젝트를 시작했습니다."
+  CZKE_new_airplane_prototypes_tooltip_reward:0 "\n §Y전투기§! 관련 §Y연구 보너스§! 또는 §Y중전투기§! 관련 §Y연구 보너스§!."
+    czke.223.t:0 "전간기 체코슬로바키아의 전투기 프로토타입"
+    czke.223.d:0 "[GetDateText]년 쯤되면 독일과의 전쟁이 일어났을 때 체코슬로바키아 공군의 복엽기 비행대에게 현대적 단엽기가 필요할 것이라는 게 체코슬로바키아 사령부에도 명백해졌습니다. 따라서 새로운 현대화 계획이 시작되었으며 전투기와 폭격기 모두에 철저한 요구 사항 및 제원이 설정되었습니다.\n\n체코 현대식 단엽기 설계의 가장 잘 알려진 예는 아비아 B.35 프로토타입이었습니다. 이 전투기는 최종적으로 아비아 B.135라는 이름을 받고 1939년부터 생산되게 됩니다. 호커 허리케인과 매우 유사한 이 항공기는 집어넣을 수 있는 랜딩 기어와 프로펠러 허브를 관통하여 발사되는 20mm 기관포 한 정과 주익에 위치한 두 정의 7.92mm 기관총을 가지고 있었습니다. 아비아 기술자들은 불충분한 이스파노-수이자 12Ycrs 엔진을 더 강력한 엔진으로 바꾸려는 계획을 세웠으나, 전쟁이 항공기의 현대화를 막았습니다.\n\n또다른 흥미롭고 유망한 설계는 ČKD 프라가가 설계한 프라가 E-51이었습니다. 이 항공기는 정찰기이자 중전투기였으며 경폭격기로도 활용될 수 있어 Fw 189나 P-38 라이트닝과 비슷했습니다. 유일하게 알려진 프로토타입은 1938년 5월 첫 비행을 했으나, 이미 체코슬로바키아 공군이 쓰기 위해 개량되고 대량생산되기에는 너무 늦은 후였습니다. 후에 이 프로토타입은 압수되어 독일의 레힐린에서 시험 비행을 거쳤으나, 그 후에는 다시 등장하지 않았습니다."
+    czke.223.a:0 "아비아 B.135 (전투기)"
+    czke.223.b:0 "프라가 E.51 (중전투기)"
   CZKE_new_airplane_prototypes_2:0 "새 폭격기 프로토타입"
-  CZKE_new_airplane_prototypes_2_desc:0 "By 1936, the only not-totally obsolete Czechoslovak bomber, was the licensed Bloch MB.200 manufactured by Aero Company. One of the interesting prototype designs before World War II, was Aero A.300.\n\nUnfortunately, the outbreak of the war interrupted development and possible production."
-  CZKE_new_airplane_prototypes_2_tooltip_reward:0 "\n Choice between §YClose Air Support§! or §YTactical Bomber§! or §YStrategic Bomber§! related §YResearch Bonus§!."
-    czke.224.t:0 "Czechoslovak pre-war bomber aircraft prototypes"
-    czke.224.d:0 "By [GetDateText] it was clear to the Czechoslovak High Command, that the biplane fleet of the Czechoslovak Air Force will need modern monoplanes, should it ever come to war with Germany. Thus a new modernization program was initiated and a set of strict requirements and specifications was set for both fighters and bombers.\n\nOne of the most promising bomber prototypes, Aero A.300, represented a modern bomber propelled by powerful Bristol Mercury IX radial engines. It was faster than any other Czechoslovak airplane, except for the Avia B-35 prototype. The Germans captured the plane in 1939 and it was examined and tested by Focke-Wulf engineers in Bremes, never to be seen again.\n\nAvia introduced a new light bomber aircraft, an advanced derivate of the previous B-58 prototype. The B.158 was a three-seat low-winged monoplane with inverted gull-wings, a retractable tailwheel undercarriage and 634 kW (850 hp) Avia (Hispano-Suiza) 12Ydrs engines, which made its maiden flight in mid-1938.\n\nLetov also provided a new design, Š-50. Designed to be a general purpose monoplane, it was powered by two 420 hp (313 kW) Avia Rk.17 radial engines and equiped with three machine guns and up to 600 kg of bombs. It could be equiped with radio station and cameras for reconnaissance duty."
-    czke.224.a:0 "Aero A.300 (Strategic Bomber)"
-    czke.224.b:0 "Avia B.158 (Tactical Bomber)"
-    czke.224.c:0 "Letov Š.50 (Close Air Support)"    
+  CZKE_new_airplane_prototypes_2_desc:0 "1936년이면, 체코슬로바키아 폭격기 가운데 구식이 아닌 유일한 항공기는 아에로 사가 면허 생산한 블로슈 MB.200뿐이었습니다. 제2차 세계대전 전의 가장 흥미로운 프로토타입 설계 중 하나는 아에로 A.300이었습니다.\n\n불행히도, 전쟁이 항공기의 개발과 생산을 방해했습니다."
+  CZKE_new_airplane_prototypes_2_tooltip_reward:0 "\n §Y근접 항공 지원기§! 관련 §Y연구 보너스§! 또는 §Y전술 폭격기§! 관련 §Y연구 보너스§! 또는 §Y전략 폭격기§! 관련 §Y연구 보너스§!."
+    czke.224.t:0 "전간기 체코슬로바키아의 폭격기 프로토타입"
+    czke.224.d:0 "[GetDateText]년 쯤되면 독일과의 전쟁이 일어났을 때 체코슬로바키아 공군의 복엽기 비행대에게 현대적 단엽기가 필요할 것이라는 게 체코슬로바키아 사령부에도 명백해졌습니다. 따라서 새로운 현대화 계획이 시작되었으며 전투기와 폭격기 모두에 철저한 요구 사항 및 제원이 설정되었습니다.\n\n가장 유망한 폭격기 프로토타입 중 하나인 아에로 A.300은 강력한 브리스톨 머큐리 IX 성형 엔진을 장착한 현대식 폭격기였습니다. 이 항공기는 아비아 B-35 프로토타입을 제외하면 그 어느 체코슬로바키아 항공기보다도 빨랐습니다. 1939년 독일이 이 항공기를 노획한 후 브레멘의 포케불프 기술자들은 이 항공기를 조사하고 시험했으나, 그 후에 이 폭격기는 다시 등장하지 않았습니다.\n\n아비아는 새로운 경폭격기를 소개했으며, 이 항공기는 기존 B-58 프로토타입의 발전된 파생형이었습니다. B.158은 세 개 좌석과 역갈매기형 주익을 가진 저익 단엽기였으며, 집어넣을 수 있는 뒷바퀴와 634kW(850마력) 아비아(이스파노-수이자) 12Ydrs 엔진을 장착하고 있었습니다. 이 항공기의 처녀 비행은 1938년 중순 진행되었습니다.\n\n레토프도 Š-50이라는 새로운 설계를 제시했습니다. 다목적 단엽기로 활용될 수 있도록 설계된 이 항공기는 두 개의 313kW(420마력) 아비아 Rk.17 성형 엔진을 장착하고 있었으며 세 정의 기관총과 600kg에 달하는 폭장량도 가지고 있었습니다. 정찰 임무를 위해 라디오 기지국과 카메라도 장착할 수 있었습니다."
+    czke.224.a:0 "아에로 A.300 (전략 폭격기)"
+    czke.224.b:0 "아비아 B.158 (전술 폭격기)"
+    czke.224.c:0 "레토프 Š.50 (근접 항공 지원기)"
 
 
 
-    new_aircraft_model:0 "\nNew §YAircraft§! available:\n"
-    gained_avia_b4:0 "Avia B.534/IV (§MFighter I§!)\n"
-    gained_avia_bk:0 "Avia Bk.534 (§MHeavy Fighter I§!)\n"
+    new_aircraft_model:0 "\n새 §Y항공기§! 사용 가능:\n"
+    gained_avia_b4:0 "아비아 B.534/IV (§M전투기 I§!)\n"
+    gained_avia_bk:0 "아비아 Bk.534 (§M중전투기 I§!)\n"
 
 
 ####### FUTURE ADDITIONS
 
-#######     czke.447.t:0 "Autonomy of Slovakia and Carpathian Ruthenia"  
-#######     czke.447.d:0 "The aftermath of the Munich crisis demanded higher autonomy for eastern regions of Czechoslovakia. Two constitutional laws of 22 November 1938 (constitutional law no. 299/1938 Coll. on the autonomy of Slovakia and the constitutional law no. 328/1938 Coll. on the autonomy of Carpathian Ruthenia) replaced the existing unified character of the Czechoslovak State with an asymmetrical model of the autonomy of Slovakia and Carpathian Ruthenia, but not the historical Czech lands.\n\nA new local government under Tiso was established in Slovakia and the name of the country changed from Czechoslovak Republic to Czecho-Slovak Republic. However, given the events in 1939 and the occupation of the Czech lands by Germany, the existence of this federation lasted only few months before independed Slovak Republic was established as a client state of Nazi Germany." 
-#######    czke.447.a:0 "Prepare the Autonomy." 
+#######     czke.447.t:0 "슬로바키아와 카르파티아 루테니아의 자치"  
+#######     czke.447.d:0 "뮌헨 위기의 여파로 체코슬로바키아의 동부 지역의 더 높은 수준의 자치가 필요하게 되었습니다. 두 개의 헌법 개정안(슬로바키아의 자치에 관한 헌법 개정안 제299/1938번과 카르파티아 루테니아의 자치에 관한 헌법 개정안 제328/1938번)이 1938년 11월 22일 통과되었으며, 기존의 통일된 체코슬로바키아 국가를 슬로바키아와 카르파티아 루테니아의 자치와 체코 지역의 현상 유지라는 비대칭적인 형태로 대체했습니다.\n\n슬로바키아에서는 티소가 이끄는 새로운 지방 정부가 수립되었으며 나라의 이름도 체코슬로바키아 공화국에서 체코-슬로바키아 공화국으로 바뀌었습니다. 하지만 1939년의 사건들과 독일의 체코 점령으로 인해 이 연방은 나치 독일의 종속국으로 슬로바키아 공화국이 수립될 때까지 고작 수 개월만 존속했습니다." 
+#######    czke.447.a:0 "자치를 준비하라." 
